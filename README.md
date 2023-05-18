@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-<h1 style="color:#FFFF00">#QUIZ-APP OUTPUT</h1>
+<h1 style="color:#8a2be2">#QUIZ-APP OUTPUT</h1>
 
 
 
